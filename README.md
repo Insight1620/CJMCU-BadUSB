@@ -13,4 +13,4 @@ https://www.aliexpress.com/item/CJMCU-Virtual-Keyboard-Badusb-USB-TF-Memory-Keyb
 - it has two operational modes (continuous delivery and one-time delivery)
 - you can switch between modes/payloads with your smartphone
 
-For more info on how to get started check [wiki pages](https://github.com/insight1620/CJMCU-BadUSB/wiki
+For more info on how to get started check [wiki pages](https://github.com/insight1620/CJMCU-BadUSB/wiki)
